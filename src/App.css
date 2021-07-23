@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding-top: .5rem;
+  font-size: 1.5rem;
+}
+
+
+.div {
+  width: 5rem;
+  height: 5rem;
+  background-color: black;
+ margin: auto;
+ 
+}
+
+.div_px {
+  width: 80px;
+  height: 80px;
+  background-color: black;
+ margin: auto;
+ 
+}
+
+.div_px p {
+  font-size: 16px;
+ 
+}
